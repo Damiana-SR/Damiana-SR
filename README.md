@@ -1,5 +1,6 @@
-👋 Oi, eu sou Damiana Sousa Rocha.
-- 👀 Estou interessado em oportunidades na área de TI.
-- 🌱 Estou aprendendo desenvolvimento de sistemas utilizando a limguagem C# e Banco de Dados SQL.
-- 💞️ Estou procurando colaborar em projetos que me acrescentem aprendizado, e procuro agregar valor à eles.
-- 📫 Meus contatos são:E-mail: damianasrrocha@gmail.com, LinkedIn: https://www.linkedin.com/in/damiana-rocha-35a0b2161.
+👋 Hi, I'm Damiana Sousa Rocha.
+
+👀 I am interested in opportunities in the IT area.
+🌱 I'm learning system development using c# limguagem and SQL Database.
+💞️ I'm looking to collaborate on projects that add learning to me, and I try to add value to them.
+📫 My contacts are:Email: damianasrrocha@gmail.com, LinkedIn: https://www.linkedin.com/in/damiana-rocha-35a0b2161.
